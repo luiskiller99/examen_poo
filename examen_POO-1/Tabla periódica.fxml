@@ -10,124 +10,127 @@
   <children>
     <AnchorPane maxHeight="1.7976931348623157E308" prefHeight="795.0" VBox.vgrow="ALWAYS">
          <children>
-            <JFXButton layoutX="59.0" layoutY="70.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="59.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="59.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="59.0" layoutY="170.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Button" />
-            <JFXButton layoutX="59.0" layoutY="120.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="59.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Button" />
-            <JFXButton layoutX="59.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="132.0" layoutY="120.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="132.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="132.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="132.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Button" />
-            <JFXButton layoutX="132.0" layoutY="170.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="132.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="205.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="205.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="205.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Button" />
-            <JFXButton layoutX="205.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="278.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="278.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="278.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Button" />
-            <JFXButton layoutX="278.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="351.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="351.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="351.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Button" />
-            <JFXButton layoutX="351.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="424.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="424.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="424.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Button" />
-            <JFXButton layoutX="424.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="497.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="497.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="497.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Button" />
-            <JFXButton layoutX="497.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="570.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="570.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="570.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Button" />
-            <JFXButton layoutX="570.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="643.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="643.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="643.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Button" />
-            <JFXButton layoutX="643.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="716.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="716.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="716.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Button" />
-            <JFXButton layoutX="716.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="789.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="789.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="789.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Button" />
-            <JFXButton layoutX="789.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="862.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="862.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="862.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Button" />
-            <JFXButton layoutX="862.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="935.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="935.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="935.0" layoutY="170.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Button" />
-            <JFXButton layoutX="935.0" layoutY="120.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="935.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="935.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1008.0" layoutY="120.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1008.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1008.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1008.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Button" />
-            <JFXButton layoutX="1008.0" layoutY="170.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1008.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1081.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1081.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1081.0" layoutY="170.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Button" />
-            <JFXButton layoutX="1081.0" layoutY="120.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1081.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1081.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1154.0" layoutY="120.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1154.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1154.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1154.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Button" />
-            <JFXButton layoutX="1154.0" layoutY="170.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1154.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1227.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1227.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1227.0" layoutY="170.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Button" />
-            <JFXButton layoutX="1227.0" layoutY="120.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1227.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1227.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1300.0" layoutY="120.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1300.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1300.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1300.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Button" />
-            <JFXButton layoutX="1300.0" layoutY="170.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1300.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1300.0" layoutY="70.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="160.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Button" />
-            <JFXButton layoutX="160.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="233.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="233.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="306.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="306.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="379.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="379.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="452.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="452.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="525.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="525.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="598.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="598.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="671.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="671.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="744.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="744.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="817.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="817.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="890.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="890.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="963.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="963.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1036.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1036.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1109.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
-            <JFXButton layoutX="1109.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" />
+            <JFXButton layoutX="59.0" layoutY="70.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="H">
+               <font>
+                  <Font size="18.0" />
+               </font></JFXButton>
+            <JFXButton layoutX="59.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Rb" />
+            <JFXButton layoutX="59.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="K" />
+            <JFXButton layoutX="59.0" layoutY="170.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Na" />
+            <JFXButton layoutX="59.0" layoutY="120.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Li" />
+            <JFXButton layoutX="59.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Cs" />
+            <JFXButton layoutX="59.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Fr" />
+            <JFXButton layoutX="132.0" layoutY="120.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Be" />
+            <JFXButton layoutX="132.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Ba" />
+            <JFXButton layoutX="132.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Sr" />
+            <JFXButton layoutX="132.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Ca" />
+            <JFXButton layoutX="132.0" layoutY="170.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Mg" />
+            <JFXButton layoutX="132.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Ra" />
+            <JFXButton layoutX="205.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Lu" />
+            <JFXButton layoutX="205.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Y" />
+            <JFXButton layoutX="205.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Sc" />
+            <JFXButton layoutX="205.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Lr" />
+            <JFXButton layoutX="278.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Hf" />
+            <JFXButton layoutX="278.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Zr" />
+            <JFXButton layoutX="278.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Ti" />
+            <JFXButton layoutX="278.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Rf" />
+            <JFXButton layoutX="351.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Ta" />
+            <JFXButton layoutX="351.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Nb" />
+            <JFXButton layoutX="351.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="V" />
+            <JFXButton layoutX="351.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Db" />
+            <JFXButton layoutX="497.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Re" />
+            <JFXButton layoutX="497.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Tc" />
+            <JFXButton layoutX="497.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Mn" />
+            <JFXButton layoutX="497.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Bh" />
+            <JFXButton layoutX="570.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Os" />
+            <JFXButton layoutX="570.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Ru" />
+            <JFXButton layoutX="570.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Fe" />
+            <JFXButton layoutX="570.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Hs" />
+            <JFXButton layoutX="643.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Ir" />
+            <JFXButton layoutX="643.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Rh" />
+            <JFXButton layoutX="643.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Co" />
+            <JFXButton layoutX="643.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Mt" />
+            <JFXButton layoutX="716.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Pt" />
+            <JFXButton layoutX="716.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Pd" />
+            <JFXButton layoutX="716.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Ni" />
+            <JFXButton layoutX="716.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Ds" />
+            <JFXButton layoutX="789.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Au" />
+            <JFXButton layoutX="789.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Ag" />
+            <JFXButton layoutX="789.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Cu" />
+            <JFXButton layoutX="789.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Rq" />
+            <JFXButton layoutX="862.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Hg" />
+            <JFXButton layoutX="862.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Cd" />
+            <JFXButton layoutX="862.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Zn" />
+            <JFXButton layoutX="862.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Cn" />
+            <JFXButton layoutX="424.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="W" />
+            <JFXButton layoutX="424.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Mo" />
+            <JFXButton layoutX="424.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Cr" />
+            <JFXButton layoutX="424.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Sg" />
+            <JFXButton layoutX="935.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="In" />
+            <JFXButton layoutX="935.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Ga" />
+            <JFXButton layoutX="935.0" layoutY="170.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Al" />
+            <JFXButton layoutX="935.0" layoutY="120.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="B" />
+            <JFXButton layoutX="935.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Tl" />
+            <JFXButton layoutX="935.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Nh" />
+            <JFXButton layoutX="1008.0" layoutY="120.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="C" />
+            <JFXButton layoutX="1008.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Pb" />
+            <JFXButton layoutX="1008.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Sn" />
+            <JFXButton layoutX="1008.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Ge" />
+            <JFXButton layoutX="1008.0" layoutY="170.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Si" />
+            <JFXButton layoutX="1008.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Fl" />
+            <JFXButton layoutX="1081.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Sb" />
+            <JFXButton layoutX="1081.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="As" />
+            <JFXButton layoutX="1081.0" layoutY="170.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="P" />
+            <JFXButton layoutX="1081.0" layoutY="120.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="N" />
+            <JFXButton layoutX="1081.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Bi" />
+            <JFXButton layoutX="1081.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Mc" />
+            <JFXButton layoutX="1154.0" layoutY="120.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="O" />
+            <JFXButton layoutX="1154.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Po" />
+            <JFXButton layoutX="1154.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Te" />
+            <JFXButton layoutX="1154.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Se" />
+            <JFXButton layoutX="1154.0" layoutY="170.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="S" />
+            <JFXButton layoutX="1154.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Lv" />
+            <JFXButton layoutX="1227.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="I" />
+            <JFXButton layoutX="1227.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Br" />
+            <JFXButton layoutX="1227.0" layoutY="170.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Cl" />
+            <JFXButton layoutX="1227.0" layoutY="120.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="F" />
+            <JFXButton layoutX="1227.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="At" />
+            <JFXButton layoutX="1227.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Ts" />
+            <JFXButton layoutX="1300.0" layoutY="120.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Ne" />
+            <JFXButton layoutX="1300.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Rn" />
+            <JFXButton layoutX="1300.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Xe" />
+            <JFXButton layoutX="1300.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Kr" />
+            <JFXButton layoutX="1300.0" layoutY="170.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Ar" />
+            <JFXButton layoutX="1300.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Og" />
+            <JFXButton layoutX="1300.0" layoutY="70.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="He" />
+            <JFXButton layoutX="161.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="La" />
+            <JFXButton layoutX="161.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Ac" />
+            <JFXButton layoutX="234.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Ce" />
+            <JFXButton layoutX="234.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Th" />
+            <JFXButton layoutX="307.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Pr" />
+            <JFXButton layoutX="307.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Pa" />
+            <JFXButton layoutX="380.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Nd" />
+            <JFXButton layoutX="380.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="U" />
+            <JFXButton layoutX="453.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Pm" />
+            <JFXButton layoutX="453.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Np" />
+            <JFXButton layoutX="525.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Sm" />
+            <JFXButton layoutX="525.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Pu" />
+            <JFXButton layoutX="598.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Eu" />
+            <JFXButton layoutX="598.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Am" />
+            <JFXButton layoutX="671.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Gd" />
+            <JFXButton layoutX="671.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Cm" />
+            <JFXButton layoutX="744.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Tb" />
+            <JFXButton layoutX="744.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Bk" />
+            <JFXButton layoutX="817.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Dy" />
+            <JFXButton layoutX="817.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Cf" />
+            <JFXButton layoutX="890.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Ho" />
+            <JFXButton layoutX="890.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Es" />
+            <JFXButton layoutX="963.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Er" />
+            <JFXButton layoutX="963.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Fm" />
+            <JFXButton layoutX="1036.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Tm" />
+            <JFXButton layoutX="1036.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Md" />
+            <JFXButton layoutX="1109.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="Yb" />
+            <JFXButton layoutX="1109.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: gray;" text="No" />
             <JFXTextField layoutX="343.0" layoutY="83.0" prefHeight="79.0" prefWidth="420.0" text="Tabla Periódica de los elementos">
                <font>
                   <Font name="Arial" size="27.0" />
