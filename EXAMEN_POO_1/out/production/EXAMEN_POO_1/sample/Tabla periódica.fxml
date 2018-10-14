@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox prefHeight="621.0" prefWidth="1432.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sampleController">
+  <children>
+    <AnchorPane maxHeight="1.7976931348623157E308" prefHeight="795.0" VBox.vgrow="ALWAYS">
+         <children>
+            <JFXButton accessibleText="elem1" layoutX="59.0" layoutY="79.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#ed480b" style="-fx-background-color: #ae62b5;" text="H">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem37" layoutX="59.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#f9b24d" style="-fx-background-color: ff7729;" text="Rb">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem19" layoutX="59.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#f9b24d" style="-fx-background-color: ff7729;" text="K">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem11" layoutX="59.0" layoutY="170.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#f9b24d" style="-fx-background-color: ff7729;" text="Na">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem3" layoutX="59.0" layoutY="120.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#f9b24d" style="-fx-background-color: ff7729;" text="Li">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem55" layoutX="59.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#f9b24d" style="-fx-background-color: ff7729;" text="Cs">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem87" layoutX="59.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#f9b24d" style="-fx-background-color: ff7729;" text="Fr">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem4" layoutX="132.0" layoutY="120.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#f4e111" style="-fx-background-color: #f9b24d;" text="Be">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem56" layoutX="132.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#f4e111" style="-fx-background-color: #f9b24d;" text="Ba">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem38" layoutX="132.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#f4e111" style="-fx-background-color: #f9b24d;" text="Sr">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem20" layoutX="132.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#f4e111" style="-fx-background-color: #f9b24d;" text="Ca">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem12" layoutX="132.0" layoutY="170.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#f4e111" style="-fx-background-color: #f9b24d;" text="Mg">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem88" layoutX="132.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#f4e111" style="-fx-background-color: #f9b24d;" text="Ra">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem71" layoutX="205.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Lu">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem39" layoutX="205.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Y">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem21" layoutX="205.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Sc">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem103" layoutX="205.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Lr">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem72" layoutX="278.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Hf">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem40" layoutX="278.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Zr">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem22" layoutX="278.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Ti">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem104" layoutX="278.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Rf">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem73" layoutX="351.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Ta">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem41" layoutX="351.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Nb">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem23" layoutX="351.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="V">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem105" layoutX="351.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Db">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem75" layoutX="497.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Re">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem43" layoutX="497.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Tc">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem25" layoutX="497.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Mn">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem107" layoutX="497.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Bh">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem76" layoutX="570.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Os">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem44" layoutX="570.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Ru">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem26" layoutX="570.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Fe">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem108" layoutX="570.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Hs">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem77" layoutX="643.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Ir">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem45" layoutX="643.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Rh">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem27" layoutX="643.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Co">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem109" layoutX="643.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Mt">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem78" layoutX="716.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Pt">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem46" layoutX="716.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Pd">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem28" layoutX="716.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Ni">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem110" layoutX="716.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Ds">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem79" layoutX="789.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Au">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem47" layoutX="789.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Ag">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem29" layoutX="789.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Cu">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem111" layoutX="789.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Rq">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem80" layoutX="862.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Hg">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem48" layoutX="862.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Cd">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem30" layoutX="862.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Zn">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem112" layoutX="862.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Cn">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem74" layoutX="424.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="W">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem42" layoutX="424.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Mo">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem24" layoutX="424.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Cr">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem106" layoutX="424.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#fff34f" style="-fx-background-color: #fff34f;" text="Sg">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem49" layoutX="935.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#ffd98d" style="-fx-background-color: #ffd98d;" text="In">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem31" layoutX="935.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#ffd98d" style="-fx-background-color: #ffd98d;" text="Ga">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem13" layoutX="935.0" layoutY="170.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#ffd98d" style="-fx-background-color: #ffd98d;" text="Al">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem5" layoutX="935.0" layoutY="120.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#68f494" style="-fx-background-color: #68f494;" text="B">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem81" layoutX="935.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#ffd98d" style="-fx-background-color: #ffd98d;" text="Tl">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem113" layoutX="935.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#c2c2c2" style="-fx-background-color: #c2c2c2;" text="Nh">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem6" layoutX="1008.0" layoutY="120.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#52d9ff" style="-fx-background-color: #ae62b5;" text="C">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem82" layoutX="1008.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#ffd98d" style="-fx-background-color: #ffd98d;" text="Pb">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem50" layoutX="1008.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#ffd98d" style="-fx-background-color: #ffd98d;" text="Sn">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem32" layoutX="1008.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#68f494" style="-fx-background-color: #68f494;" text="Ge">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem14" layoutX="1008.0" layoutY="170.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#68f494" style="-fx-background-color: #68f494;" text="Si">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem114" layoutX="1008.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#c2c2c2" style="-fx-background-color: #c2c2c2;" text="Fl">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem51" layoutX="1081.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#68f494" style="-fx-background-color: #68f494;" text="Sb">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem33" layoutX="1081.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#68f494" style="-fx-background-color: #68f494;" text="As">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem15" layoutX="1081.0" layoutY="170.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#52d9ff" style="-fx-background-color: #ae62b5;" text="P">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem7" layoutX="1081.0" layoutY="120.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#52d9ff" style="-fx-background-color: #ae62b5;" text="N">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem83" layoutX="1081.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#ffd98d" style="-fx-background-color: #ffd98d;" text="Bi">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem115" layoutX="1081.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#c2c2c2" style="-fx-background-color: #c2c2c2;" text="Mc">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem8" layoutX="1154.0" layoutY="120.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#52d9ff" style="-fx-background-color: #ae62b5;" text="O">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem84" layoutX="1154.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#68f494" style="-fx-background-color: #68f494;" text="Po">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem52" layoutX="1154.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#68f494" style="-fx-background-color: #68f494;" text="Te">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem34" layoutX="1154.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#52d9ff" style="-fx-background-color: #ae62b5;" text="Se">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem16" layoutX="1154.0" layoutY="170.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#52d9ff" style="-fx-background-color: #ae62b5;" text="S">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem116" layoutX="1154.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#c2c2c2" style="-fx-background-color: #c2c2c2;" text="Lv">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem53" layoutX="1227.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#77ffa4" style="-fx-background-color: #ff7ec2;" text="I">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem35" layoutX="1227.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#77ffa4" style="-fx-background-color: #ff7ec2;" text="Br">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem17" layoutX="1227.0" layoutY="170.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#77ffa4" style="-fx-background-color: #ff7ec2;" text="Cl">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem9" layoutX="1227.0" layoutY="120.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#77ffa4" style="-fx-background-color: #ff7ec2;" text="F">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem85" layoutX="1227.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#77ffa4" style="-fx-background-color: #ff7ec2;" text="At">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem117" layoutX="1227.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#c2c2c2" style="-fx-background-color: #c2c2c2;" text="Ts">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem10" layoutX="1300.0" layoutY="120.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: #52d9ff;" text="Ne">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem86" layoutX="1300.0" layoutY="320.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: #52d9ff;" text="Rn">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem54" layoutX="1300.0" layoutY="270.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: #52d9ff;" text="Xe">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem36" layoutX="1300.0" layoutY="220.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: #52d9ff;" text="Kr">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem18" layoutX="1300.0" layoutY="170.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: #52d9ff;" text="Ar">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem118" layoutX="1300.0" layoutY="370.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#c2c2c2" style="-fx-background-color: #c2c2c2;" text="Og">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem2" layoutX="1300.0" layoutY="70.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#da0000" style="-fx-background-color: #52d9ff;" text="He">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem57" layoutX="161.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#c8ff5c" style="-fx-background-color: #c8ff5c;" text="La">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem89" layoutX="161.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#8dff7c" style="-fx-background-color: #8dff7c;" text="Ac">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem58" layoutX="234.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#c8ff5c" style="-fx-background-color: #c8ff5c;" text="Ce">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem90" layoutX="234.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#8dff7c" style="-fx-background-color: #8dff7c;" text="Th">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem59" layoutX="307.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#c8ff5c" style="-fx-background-color: #c8ff5c;" text="Pr">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem91" layoutX="307.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#8dff7c" style="-fx-background-color: #8dff7c;" text="Pa">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem60" layoutX="380.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#c8ff5c" style="-fx-background-color: #c8ff5c;" text="Nd">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem92" layoutX="380.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#8dff7c" style="-fx-background-color: #8dff7c;" text="U">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem61" layoutX="453.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#c8ff5c" style="-fx-background-color: #c8ff5c;" text="Pm">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem93" layoutX="453.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#8dff7c" style="-fx-background-color: #8dff7c;" text="Np">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem62" layoutX="525.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#c8ff5c" style="-fx-background-color: #c8ff5c;" text="Sm">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem94" layoutX="525.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#8dff7c" style="-fx-background-color: #8dff7c;" text="Pu">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem63" layoutX="598.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#c8ff5c" style="-fx-background-color: #c8ff5c;" text="Eu">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem95" layoutX="598.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#8dff7c" style="-fx-background-color: #8dff7c;" text="Am">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem64" layoutX="671.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#c8ff5c" style="-fx-background-color: #c8ff5c;" text="Gd">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem96" layoutX="671.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#8dff7c" style="-fx-background-color: #8dff7c;" text="Cm">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem65" layoutX="744.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#c8ff5c" style="-fx-background-color: #c8ff5c;" text="Tb">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem97" layoutX="744.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#8dff7c" style="-fx-background-color: #8dff7c;" text="Bk">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem66" layoutX="817.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#c8ff5c" style="-fx-background-color: #c8ff5c;" text="Dy">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem98" layoutX="817.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#8dff7c" style="-fx-background-color: #8dff7c;" text="Cf">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem67" layoutX="890.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#c8ff5c" style="-fx-background-color: #c8ff5c;" text="Ho">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem99" layoutX="890.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#8dff7c" style="-fx-background-color: #8dff7c;" text="Es">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem68" layoutX="963.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#c8ff5c" style="-fx-background-color: #c8ff5c;" text="Er">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem100" layoutX="963.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#8dff7c" style="-fx-background-color: #8dff7c;" text="Fm">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem69" layoutX="1036.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#c8ff5c" style="-fx-background-color: #c8ff5c;" text="Tm">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem101" layoutX="1036.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#8dff7c" style="-fx-background-color: #8dff7c;" text="Md">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem70" layoutX="1109.0" layoutY="497.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#c8ff5c" style="-fx-background-color: #c8ff5c;" text="Yb">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXButton accessibleText="elem102" layoutX="1109.0" layoutY="547.0" prefHeight="50.0" prefWidth="73.0" ripplerFill="#8dff7c" style="-fx-background-color: #8dff7c;" text="No">
+               <font>
+                  <Font name="Arial" size="18.0" />
+               </font></JFXButton>
+            <JFXTextField layoutX="343.0" layoutY="83.0" prefHeight="79.0" prefWidth="420.0" text="Tabla Periódica de los elementos">
+               <font>
+                  <Font name="Arial" size="28.0" />
+               </font>
+            </JFXTextField>
+         </children>
+    </AnchorPane>
+  </children>
+</VBox>
