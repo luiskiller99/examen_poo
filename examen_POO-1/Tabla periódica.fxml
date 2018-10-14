@@ -6,7 +6,7 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<VBox prefHeight="621.0" prefWidth="1432.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1">
+<VBox prefHeight="621.0" prefWidth="1432.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sampleController">
   <children>
     <AnchorPane maxHeight="1.7976931348623157E308" prefHeight="795.0" VBox.vgrow="ALWAYS">
          <children>
