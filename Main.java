@@ -6,8 +6,6 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
-import javax.xml.stream.events.EndElement;
-
 public class Main extends Application {
     @Override
 
